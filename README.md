@@ -13,4 +13,4 @@ Technical information:
 - Projekt use framework cakephp,
 - Projekt also use MVC,
 - Technology: mysql, php, js, html, css,
-- Type on eclipse PHP.
+- Written on eclipse PHP.
