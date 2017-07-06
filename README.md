@@ -14,3 +14,6 @@ Technical information:
 - Projekt also use MVC,
 - Technology: mysql, php, js, html, css,
 - Written on eclipse PHP.
+
+For examples check FAQ:
+https://github.com/SirConrado/Shopping-List/wiki/Examples
